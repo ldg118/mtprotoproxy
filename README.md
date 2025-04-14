@@ -12,8 +12,12 @@
 ```
 bash <(curl -sSL https://raw.githubusercontent.com/admin8800/mtprotoproxy/master/mtproxy.sh)
 ```
-bash <(curl -sSL https://raw.githubusercontent.com/ldg118/mtprotoproxy/refs/heads/master/mtproxy.sh)
+
 ---
+bash <(curl -sSL https://raw.githubusercontent.com/ldg118/mtprotoproxy/refs/heads/master/mtproxy.sh)
+```
+---
+
 
 ## 🟢Docker部署（建议使用）
 
